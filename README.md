@@ -1,2 +1,2 @@
-# playing-with-card
+# TIC TAC GAME
 Describes playing
